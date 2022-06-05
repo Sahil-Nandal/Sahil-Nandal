@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sahil Nandal</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Web developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-nandal&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-nandal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-nandal" alt="sahil-nandal" /></a> </p>
 
-- 🔭 I’m currently working on [Library- Web Application](https://sahil-nandal.github.io/Book-freaks-website/)
+- 🔭 I’m currently working on [VueJs based project](https://sahil-nandal.github.io/Book-freaks-website/)
 
 - 🌱 I’m currently learning **ReactJs and NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sahil-Nandal](https://github.com/Sahil-Nandal)
 
-- 💬 Ask me about **Frontend Development.**
+- 💬 Ask me about **Web Development.**
 
 - 📫 How to reach me **sahil52001nandal@gmail.com**
 

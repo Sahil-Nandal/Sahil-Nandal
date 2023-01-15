@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-nandal" alt="sahil-nandal" /></a> </p>
 
-- 🔭 I’m currently working on [React Hooks and Redux](https://sahil-nandal.github.io/Book-freaks-website/)
+- 🔭 I’m currently working on [React Hooks and Redux](react-u1vecr.stackblitz.io/)
 
 - 🌱 I’m currently learning **React redux and NodeJs**
 

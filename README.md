@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-nandal" alt="sahil-nandal" /></a> </p>
 
-- 🔭 I’m currently working on [VueJs based project](https://sahil-nandal.github.io/Book-freaks-website/)
+- 🔭 I’m currently working on [React Hooks and Redux](https://sahil-nandal.github.io/Book-freaks-website/)
 
-- 🌱 I’m currently learning **ReactJs and NodeJs**
+- 🌱 I’m currently learning **React redux and NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sahil-Nandal](https://github.com/Sahil-Nandal)
 
